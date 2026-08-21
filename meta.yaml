@@ -1,0 +1,98 @@
+# The Human Leverage Map -- book-forge configuration.
+#
+# Flow mode: this shipped as a single-flow essay page, not a sheet-paginated
+# book. book-forge adds only the copyright plate and the author/QR page.
+
+slug: the-human-leverage-map
+title: "The Human Leverage Map"
+theme: sheet-oxblood        # only the QR settings are used in flow mode
+
+source:
+  template: book.html.in
+output:
+  html: index.html
+  pdf: the-human-leverage-map.pdf
+
+page:
+  size: Letter
+
+cover:
+  art: assets/the-human-leverage-map-cover.png
+  page: false               # the essay renders its own cover
+  fit: crop
+
+qr:
+  - slot: QR_AUTHOR
+    target: https://anujsadani.in
+  - slot: QR_TECH
+    target: https://tech.anujsadani.in/the-human-leverage-map/
+
+folio:
+  font: IBMPlexMono-Regular.ttf
+  size: 8
+  color: [0.49, 0.52, 0.58]
+  skip_pages: [1]
+
+# Fraunces is delivered by Google Fonts as a variable font, and Chrome prints
+# variable fonts as Type 3 -- unextractable, and unusable for print. These
+# static cuts are inlined after the host's own @font-face rules so they win.
+fonts:
+  anchor: "</style>"
+  inline:
+    - {family: "Fraunces", weight: 400, file: "Fraunces-Regular.woff2"}
+    - {family: "Fraunces", weight: 600, file: "Fraunces-SemiBold.woff2"}
+    - {family: "Fraunces", weight: 800, file: "Fraunces-ExtraBold.woff2"}
+    - {family: "Fraunces", weight: 400, style: italic, file: "Fraunces-Italic.woff2"}
+    - {family: "Fraunces", weight: 600, style: italic, file: "Fraunces-SemiBoldItalic.woff2"}
+
+matter:
+  mode: flow
+  css: true
+  front:
+    heading: "Copyright, permissions, and how this was made"
+    work_line: "The Human Leverage Map &mdash; finding durable human value when intelligence becomes abundant."
+    # No AI-authorship disclosure: this title has no verification workspace and
+    # how it was drafted is not recorded. Set `ai_disclosure: drafted` if true.
+    anchor_before: '<!-- BOOK-FORGE:AFTER-COVER -->'
+    imprint: "First edition &middot; 2026"
+  about:
+    heading: "About the author"
+    anchor_before: '<!-- BOOK-FORGE:BEFORE-END -->'
+    qr_override:
+      - index: 1
+        blurb: "Read this online, and the rest of the shelf."
+        code: "tech.anujsadani.in"
+  colophon_html: |
+    <b>The Human Leverage Map</b> &mdash; an essay by Anuj Sadani, 2026.<br>
+      Read online: <b>tech.anujsadani.in/the-human-leverage-map</b>
+
+# No licence is stated in the manuscript -- only "(c) 2026 Anuj Sadani".
+# all-rights-reserved renders that faithfully rather than inventing a grant.
+license:
+  id: all-rights-reserved
+
+edition: "First edition"
+date: 2026
+
+links:
+  read_online: https://tech.anujsadani.in/the-human-leverage-map/
+  kofi: https://ko-fi.com/s/2806feff25
+
+verify:
+  cover_probes: ["Leverage"]
+  body_probes:
+    - "leverage"
+    - "judgment"
+  matter_probes:
+    - "Copyright, permissions"
+    - "About the author"
+  # The manuscript links Google Fonts; if they fail to load the render falls
+  # back to Liberation/DejaVu, which is what damaged the shipped PDF.
+  allow_system_fonts: false
+  # Two faces fall back to Times: the manuscript's own declared fallback
+  # ("Georgia, serif") for a weight the Google Fonts request does not cover.
+  # Named explicitly rather than disabling the check.
+  allow_fonts: ["TimesNewRoman"]
+  min_images: 0
+  expect_pages: 39
+  page_tolerance: 6
