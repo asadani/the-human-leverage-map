@@ -2,3 +2,9 @@ __pycache__/
 .bf-cache/
 *.staged
 *.new.pdf
+
+# Agent/tooling working notes, not part of the book.
+.superpowers/
+docs/superpowers/
+# Duplicate of assets/the-human-leverage-map-cover.png
+the-human-leverage-map.png
