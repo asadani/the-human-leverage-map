@@ -8,3 +8,9 @@ __pycache__/
 docs/superpowers/
 # Duplicate of assets/the-human-leverage-map-cover.png
 the-human-leverage-map.png
+
+# Research, drafts and the pre-book chaptered manuscript. Kept locally; the
+# published source of truth is book.html.in.
+*.md
+!README.md
+manuscript/
