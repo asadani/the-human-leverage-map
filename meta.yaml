@@ -94,5 +94,5 @@ verify:
   # Named explicitly rather than disabling the check.
   allow_fonts: ["TimesNewRoman"]
   min_images: 0
-  expect_pages: 39
+  expect_pages: 40
   page_tolerance: 6
