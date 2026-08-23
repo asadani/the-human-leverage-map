@@ -14,3 +14,6 @@ the-human-leverage-map.png
 *.md
 !README.md
 manuscript/
+
+# The typeset PDF is sold on Ko-fi, not distributed from this repository.
+*.pdf
