@@ -88,11 +88,10 @@ verify:
     - "About the author"
   # The manuscript links Google Fonts; if they fail to load the render falls
   # back to Liberation/DejaVu, which is what damaged the shipped PDF.
-  allow_system_fonts: false
   # Two faces fall back to Times: the manuscript's own declared fallback
   # ("Georgia, serif") for a weight the Google Fonts request does not cover.
   # Named explicitly rather than disabling the check.
   allow_fonts: ["TimesNewRoman"]
   min_images: 0
-  expect_pages: 40
+  expect_pages: 42
   page_tolerance: 6

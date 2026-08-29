@@ -9,6 +9,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,800;1,9..144,400;1,9..144,600&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+{{FONT_FACES}}
+
   :root{
     --paper:#F4F2EB;
     --panel:#ECE9DF;
@@ -28,8 +30,9 @@
     --gold:#9A7A2E;
     --gold-deep:#7A5F20;
     --gold-wash:#F1E9D4;
-    --display:'Fraunces',Georgia,serif;
-    --serif:'Spectral','Iowan Old Style',Georgia,serif;
+    --display:'Fraunces','Source Serif 4',Georgia,serif;  /* Fraunces has no arrow glyph; without an embedded face next in
+       the chain the arrows fell through to the system serif. */
+    --serif:'Source Serif 4','Spectral','Iowan Old Style',Georgia,serif;
     --mono:'IBM Plex Mono','SFMono-Regular',Menlo,monospace;
   }
 
@@ -621,7 +624,7 @@
       <text x="680" y="396" font-family="IBM Plex Mono, monospace" font-size="8.5" fill="#9A9E95" text-anchor="end">AI-Native</text>
 
       <!-- hidden reading -->
-      <text x="400" y="438" font-family="IBM Plex Mono, monospace" font-size="9.5" fill="#0A5147" text-anchor="middle">&#9679; hidden reading: Cognitive Sovereignty &mdash; what separates the upper half from the lower</text>
+      <text x="400" y="438" font-family="IBM Plex Mono, monospace" font-size="9.5" fill="#0A5147" text-anchor="middle">&bull; hidden reading: Cognitive Sovereignty &mdash; what separates the upper half from the lower</text>
     </svg>
     <figcaption><span class="fn">The map.</span> Two axes, four positions. Reach runs left to right; leverage that survives AI runs bottom to top. The teal corner &mdash; high capability, high leverage &mdash; is the durable summit the book points toward.</figcaption>
   </figure>
