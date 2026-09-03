@@ -1,0 +1,33 @@
+The Scarcity Inversion.
+
+Make any capability abundant and you do not destroy value. You move it. It drains out of the thing that just got cheap and pools around whatever is still hard to get.
+
+Call that movement The Scarcity Inversion: when a capability becomes abundant, value inverts to whatever stays scarce. The capability going abundant right now is intelligence, not in the grand philosophical sense, but in the working sense that matters to your week: the production of competent reasoning, plausible drafts, decent predictions, serviceable analysis. That used to be the scarce, expensive thing. It is becoming the cheap, ambient thing. And by the logic of the inversion, the value that used to live inside it has to go somewhere else.
+
+The mechanism, in plain economics
+
+You do not have to take the inversion on faith. There is a clean economic account of why it happens, and it comes from the most useful reframing anyone has offered about this technology: that what AI actually does, underneath the marketing, is make prediction cheap.
+
+That reframing does most of the work. When the price of something falls, two things happen at once. We use much more of it. The second part is the one people miss: the things that go with it, its complements, become more valuable. Cheap coffee makes a good café location worth more. When prediction gets cheap, demand shifts onto everything prediction needs in order to be useful.
+
+So ask the concrete question. A prediction is just a statement about what is likely. It does not tell you what to do about it. To turn a probability into an action, someone has to supply two things the prediction itself never contains: the payoffs, what it actually costs you to be wrong in each direction, and the frame, which question was even worth asking. That deciding has a name. It is judgment. Here is the inversion in a single line: as prediction gets cheap, judgment becomes the scarce, valuable input.
+
+A worked case. A bank used to pay well for analysts who could estimate the odds that a loan would default, that estimate was the expensive, scarce skill. A model now produces a sharper estimate for a fraction of a cent. The estimate has collapsed in value precisely because it became abundant. But the questions stacked on top of it have only grown heavier: how much risk should this institution carry, what does it owe a borrower the model rates poorly, which kinds of error are we willing to live with. The cheap part got cheaper. The expensive part got more expensive. That is not a side effect of cheap prediction. It is the mechanical consequence of it.
+
+Where the scarce value drifts
+
+Judgment is where the value lands first. It is not where it stops. Once you see scarcity as something that moves, you can watch it keep moving, not in a single jump but along a gradient, each rung scarcer and harder to automate than the last. It runs roughly like this: judgment → taste → trust → responsibility → meaning.
+
+Start where we already are. Judgment, choosing well among options under uncertainty, is the first complement to rise as prediction falls. But when anyone can generate a hundred competent drafts in an afternoon, the constraint is no longer making them. It is knowing which one is actually good. That is taste: the trained capacity to tell the right answer from the merely plausible one. As Itamar Medeiros argues, once execution is no longer scarce, taste and judgment become the bottleneck, the place the whole pipeline now narrows. A flood of cheap output does not reduce the demand for discernment. It raises it.
+
+Keep climbing. Past taste sits trust, the willingness of other people to rely on your word, your call, your name on the work. A model can generate the analysis; it cannot be the person a board believes when the analysis is contested. Past trust sits responsibility, being the one who is accountable when the decision turns out wrong, the human who absorbs the consequence rather than dissolving into "the system recommended it." And at the top sits meaning, the act of deciding what is worth doing at all, and why, which is the one input no abundance of intelligence will ever supply, because it is a question about ends, and machines only ever optimize means.
+
+Notice the direction. Each rung is scarcer than the one below it, and each is harder for an abundant intelligence to touch, not because the machine is weak there, but because each rung depends on something the machine structurally lacks: skin in the game, a stake in the outcome, a self that can be held to account. The faculty that became abundant was intelligence. The faculties that became scarce are the ones that decide what intelligence is for.
+
+Leverage that survives AI
+
+Now we can name the thing this whole book is built to find. Most of what you can do, AI can increasingly do too, or will soon, or can fake well enough that the difference stops paying. That capability is becoming common, and common things do not command a premium. Call it "leverage that survives AI": the contribution that stays scarce precisely because it lives on the rungs the inversion is loading with value, your judgment, your taste, your trustworthiness, the responsibility you are willing to carry, your sense of what is worth building.
+
+This is exactly what the vertical axis of the map measures. Not how much you produce, output is the commodity now. Not how fluent you are with the tools, that is the other axis, and it is necessary but not sufficient. The Human Leverage axis measures how much of your value sits above the waterline of abundance: how much of it would still be scarce in a world where competent intelligence is free.
+
+You have the force. Now we find your place in it.

@@ -1,0 +1,29 @@
+References.
+
+Twelve verified sources, numbered by order of first appearance in the text. Each was confirmed via live search and URL resolution. No statistic appears in this book by design; the citations support framing and concepts, not numbers.
+
+Agrawal, A., Gans, J., & Goldfarb, A.. Prediction Machines: The Simple Economics of Artificial Intelligence. Harvard Business Review Press. agrawal.ca/prediction-machines-book
+
+Medeiros, I. (2026, February 1). "Taste Is the New Bottleneck: Design, Strategy, and Judgment in the Age of Agents and Vibe-Coding." designative.info. designative.info
+
+Clark, A., & Chalmers, D.. "The Extended Mind." Analysis, 58(1), 7, 19. academic.oup.com
+
+Hutchins, E.. Cognition in the Wild. MIT Press. mitpress.mit.edu
+
+Kahneman, D.. Thinking, Fast and Slow. Farrar, Straus and Giroux. us.macmillan.com
+
+Chiriatti, M., Ganapini, M. B., Panai, E., Ubiali, M., & Riva, G.. "The case for human, AI interaction as system 0 thinking." Nature Human Behaviour, 8(10), 1829, 1830. nature.com
+
+Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P.. "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task." arXiv preprint arXiv:2506.08872. MIT Media Lab. arxiv.org/abs/2506.08872
+
+Dahmani, L., & Bohbot, V. D.. "Habitual use of GPS negatively impacts spatial memory during self-guided navigation." Scientific Reports, 10, 6310. pmc.ncbi.nlm.nih.gov
+
+Maguire, E. A., Gadian, D. G., Johnsrude, I. S., Good, C. D., Ashburner, J., Frackowiak, R. S., & Frith, C. D.. "Navigation-related structural change in the hippocampi of taxi drivers." Proceedings of the National Academy of Sciences, 97(8), 4398, 4403. pmc.ncbi.nlm.nih.gov
+
+Gerlich, M.. "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking." Societies, 15(1), Article 6. mdpi.com
+
+Feng, K. J. K., McDonald, D. W., & Zhang, A. X.. "Levels of Autonomy for AI Agents." Knight First Amendment Institute at Columbia University. arXiv:2506.12469. knightcolumbia.org
+
+Sheridan, T. B., & Verplank, W. L.. Human and Computer Control of Undersea Teleoperators. MIT Man-Machine Systems Laboratory. ntrs.nasa.gov
+
+© 2026 Anuj Sadani. The Human Leverage Map, finding durable human value when intelligence becomes abundant. The framework coinages (the Scarcity Inversion, the Human Leverage Map, Cognitive Sovereignty, the Steward of Intelligence, Epistemic Confinement, Captive of Autonomy) are the author's own and carry no citation.

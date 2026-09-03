@@ -1,0 +1,29 @@
+The AI Capability Axis.
+
+Everyone thinks they know where they stand on this one. Almost no one does. The horizontal axis measures a single thing: how fluently you compose and direct non-human intelligence.
+
+Not how smart you are. Not how much you care about doing good work. How well you can take a capability that now sits outside your skull, the model, the tool, the agent, and bend it toward an outcome you intend. This is the axis people fixate on, because it's the one that feels like progress. So let's measure it honestly, with one warning carried in from the start: position on this axis earns you reach, and nothing else. Moving right makes you more dangerous in both directions. Seven levels, left to right. To keep them concrete, watch one person move across them: Maya, a marketing manager at a mid-size company. She isn't special. That's the point.
+
+Ignore → Consumer → Practitioner
+
+Ignore. AI is not in your workflow, often just as absence. Maya starts here. She's heard of ChatGPT; she has never opened it. There's no shame in this position, but it is a position, and the ground underneath it is moving.
+
+Consumer. You use AI products as an end user. It's a vending machine: insert request, receive output, walk away. Maya tries it on a Tuesday. "Write me five subject lines for a summer sale." She gets five, picks one, closes the tab. She's a customer of the tool, the way she's a customer of a search engine.
+
+Practitioner. Now it's deliberate. You prompt with intent, you iterate, and, the real marker, you've developed a feel for when AI helps and when it doesn't. Maya no longer asks for "five subject lines." She pastes the brand voice guide, three past winners, the audience segment, and the offer, then asks for ten options in two registers. She also knows the jobs to keep off it, the sensitive client note still gets written by hand.
+
+Collaborator. You stop treating AI as a vending machine and start treating it as a working partner, something you brief like a colleague and think with, not just at. Maya is planning a product launch. She doesn't ask for a plan; she opens a conversation. "Poke holes in my channel strategy." The model raises a segment she'd ignored. She argues with it. An hour later she has a strategy that's genuinely been stress-tested.
+
+Builder. You stop using AI products and start building with AI as a component. APIs, tools, retrieval over your own data, agents, pipelines. Maya builds a small pipeline: it pulls every support ticket from the last quarter, runs each through a model to tag sentiment and theme, and drops a weekly summary into the team's channel. No one prompts it. It just runs. The unit of work is no longer the conversation; it's the system.
+
+Orchestrator. You design systems where multiple AI components and humans work together, with deliberate handoffs and trust boundaries. Maya now runs a small operation: one agent drafts campaign copy; another checks it against legal and brand rules; a third schedules and posts; and a human, her, approves anything that touches a regulated claim. The trust boundaries are explicit. She's orchestrating a team of humans and machines, and her job is the choreography.
+
+AI-Native. The practice and the intelligence are inseparable. You operate one level up, on the questions that decide everything below them: Should AI do this at all? What should this system be? Maya, fully across, asks the prior question: does this marketing function need to exist in its current shape, or has the abundance of intelligence changed what the job even is? AI is not a tool she reaches for, it's the medium she works in, present in every decision and conspicuous in none.
+
+What the axis does and doesn't tell you
+
+Watch what each leap actually is. Consumer to Practitioner is intent. Practitioner to Collaborator is partnership. Collaborator to Builder is construction. Builder to Orchestrator is architecture. Orchestrator to AI-Native is altitude, you stop asking how and start asking whether and what. Each step buys you more reach over non-human intelligence.
+
+And reach is all it buys. Maya at AI-Native can move ten times what Maya at Consumer could move, but the axis is silent on whether she's moving it anywhere worth going. A masterful Orchestrator can build a system that does the wrong thing at superhuman scale. High AI capability is necessary for serious leverage in this era; it is nowhere close to sufficient. The same fluency that lets you direct an army of agents can let you outsource the judgment that should have told you to stop.
+
+Knowing how far right you sit tells you how much intelligence you can command. It tells you nothing about whether you'd still be worth anything if that intelligence were free to everyone tomorrow, whether your value survives the abundance, or evaporates into it. That second question has its own axis.

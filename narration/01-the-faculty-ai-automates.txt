@@ -1,0 +1,35 @@
+The Faculty AI Automates.
+
+A machine has never replaced a human faculty cleanly. It has always replaced one and left the rest standing, which is why each new machine has felt, at first, like the last one we'd ever need to worry about.
+
+To understand why this moment is different, it helps to walk back through the others and notice what, precisely, each one took.
+
+What every epoch took
+
+Start with muscle. The defining trade of the industrial age was the substitution of mechanical power for human and animal strength. The loom, the steam engine, the assembly line did not make workers smarter or wiser. They made a single human's muscle irrelevant to the production of cloth, of travel, of goods. The faculty that was automated was physical effort. What survived was everything the machine couldn't do: deciding what to make, organizing the people who tended the machines, selling the output.
+
+Then calculation. For most of human history, "computer" was a job title, a person who did arithmetic for a living: ballistics tables, census figures, actuarial columns. The electronic computer automated that faculty out of existence. Again, a specific capacity was absorbed, and what survived sat one level up: deciding which calculations were worth running, and what the answers meant.
+
+Then recall. Before search, a large part of professional competence was simply knowing things, and knowing where things were. The lawyer who could cite the relevant case from memory, the doctor who carried the differential diagnosis in their head: their advantage was retrieval. The search engine automated retrieval. What survived, once more, was the layer above it: knowing which facts mattered, and what to do with the ones you found.
+
+Muscle. Calculation. Recall. Three epochs, three faculties, and in every case the same consolation: the machine took the lower-order capacity and left the higher-order one to humans. We built a quiet theory of progress on it: technology automates the periphery, and the human core moves up and stays safe.
+
+Where the pattern breaks
+
+Generative AI does not fit the theory. The faculties of the earlier epochs were peripheral to knowledge work. Strength, arithmetic, retrieval, these were inputs to thinking, scaffolding around it, but they were not the thinking itself. A knowledge worker's actual output has always been a different set of acts: reasoning through a problem, drafting the argument, synthesizing scattered inputs into a coherent position. That was the core. That was the part the machine couldn't touch.
+
+It can touch it now. Ask a model to draft the contract, reconcile the conflicting reports, write the function, outline the strategy memo, and it produces a credible result in seconds. Not a calculation that feeds the reasoning, the reasoning. Not a fact that supports the draft, the draft. For the first time, the machine is automating the output we had been treating as the safe high ground. The escape route every prior generation relied on, "move up a level, the machine can't follow", assumed there was always a level above the one being automated, and that humans held it. AI climbs into the level we thought was ours.
+
+Earlier tools automated the work that surrounds expert output. This one automates expert output directly.
+
+The wrong question, and why it's wrong
+
+The argument most people are having about AI is an emotional one. It runs on a single axis with fear at one end and exhilaration at the other. Will it take my job, or ten-times my output? The question underneath all of it is some version of: how do you feel about this? It is a natural question. It is also the wrong one, not because feelings don't matter, but because these particular feelings have a short shelf life and a terrible track record.
+
+We have run this cycle before. Electricity arrived as both miracle and menace; within a generation it was infrastructure no one had feelings about. The internet was going to either dissolve society or perfect it; mostly it became plumbing. In every case the emotional charge was real, loud, and completely perishable. Feelings about a new technology are a measure of its novelty, not its consequences. They expire. Any decision you anchor to them expires with them.
+
+So set the emotional question down. It is the wrong altitude. The durable questions are structural, and they survive the mood: when a capability becomes abundant, what becomes scarce in its place? When the scarce thing moves, where does human value go? These questions held through muscle, through calculation, through recall, each time a faculty became abundant, something adjacent became scarce, and value migrated to wherever the scarcity went.
+
+The same logic is about to run again, but with a twist the earlier epochs didn't have. This time the faculty going abundant is intelligence itself. If the machine can produce the answer, what exactly is left for the human to be scarce at? That is the question the rest of this book is built to answer. The short version has a name, the Scarcity Inversion, and it is the subject of the next chapter.
+
+Not how do you feel about AI, but what just became scarce, and where did your value go.

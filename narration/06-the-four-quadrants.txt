@@ -1,0 +1,29 @@
+The Four Quadrants.
+
+Two axes don't describe four jobs. They describe four ways of being worth something, and the gap between them is the whole game.
+
+Cross the axes and the map opens up. Reach runs left to right: how much non-human intelligence you can command. Leverage runs bottom to top: how much of your value survives once that intelligence is free. Where they intersect, you get four corners. Each one is a person you've met. Each one believes something, does something, and is exposed to a particular kind of harm. Read them as personas, not verdicts.
+
+The Resistant, low capability, low leverage
+
+The Resistant has decided the wave will pass. AI is absent from how the work gets done, and the work itself is the kind anyone could do: defined tasks, known methods, output by the yard. What they believe: this is a fad, and craft will be rewarded when the hype dies. Their risk is disruption, and it is the bluntest risk on the map. They occupy the one corner where both axes are working against them at once: low reach in a world flooding with reach, low leverage in work a machine already does for a fraction of a cent. The Resistant isn't wrong that something is being lost. They're wrong that refusing to look will save it.
+
+The Prompt Addict, high capability, low leverage
+
+The Prompt Addict is the surprise of the map, because they look like the future. They are fluent. They generate images, ship apps over a weekend, post daily, spin up code on demand. What they believe: output is leverage, and I am producing more than anyone. What they almost never do is ask whether any of it would still matter if the tool that made it were handed to everyone tomorrow. That question is the trap, because the answer is usually no. The Prompt Addict has climbed the X-axis and mistaken the climb for the destination. The risk here is the subtlest one on the map: motion that feels exactly like progress. High reach, no stake. A loud, productive, exposed position.
+
+The Wise Expert, low capability, high leverage
+
+The Wise Expert barely touches AI and creates enormous value anyway. The master teacher whose students remember her for life. The negotiator everyone wants in the room. What they believe: judgment is the job, and judgment was never about tools. Their value sits high above the waterline, and abundance can't reach up there to substitute for it. The Wise Expert exists to prove a specific point: capability is not the whole story. But the risk is real, and quieter than it looks. Their leverage is genuine yet capped. They create enormous value by hand when they could amplify it tenfold. Ignore the X-axis long enough and the Wise Expert finds the field reshaped around tools they declined to learn, their judgment still rare, but reaching fewer and fewer people than it should.
+
+The Amplifier / Steward of Intelligence, high capability, high leverage
+
+This is the corner the book points toward. The Amplifier / Steward of Intelligence uses AI fluently, Builder, Orchestrator, AI-Native fluent, and never once hands it the wheel. The model drafts; they decide. The model proposes; they own the call. The reach is enormous and the stake stays human. They've read both axes correctly and refused the trade the Prompt Addict made. They took the reach and kept the self. This is where durable leaders live, not because they're early or loud, but because they've placed their value in the one corner where the rising tide lifts them instead of drowning them. The risk in this corner isn't the position. It's holding it.
+
+The label is not the point
+
+These four corners are not four kinds of people. There is no Prompt Addict gene, no Wise Expert tribe. Nobody is permanently anything. The quadrant is a snapshot, and a snapshot of a moving thing tells you almost nothing on its own. What tells you something is the vector. A Resistant who opened the tab last quarter and is climbing fast is a different person from a Resistant who's been dug in for a decade, even if today they share a corner.
+
+And the arrow runs in every direction, including down. An Amplifier can decay into a Prompt Addict, keep the fluency, lose the judgment, slide from steward to operator without noticing the floor tilt. The reach stays high. The stake quietly drains out. From the outside they still look like the future, right up until they don't. That downward slide has a mechanism, Part III is where we take it apart. For now, hold only this: the corner you're in matters far less than the direction you're traveling, and the most dangerous direction is the one that still feels like winning.
+
+But notice what the map is silent about. It can tell you the Amplifier is in the strongest corner. It cannot tell you whether they're amplifying anything worth amplifying. High reach and high leverage aimed at nothing that matters is just a more powerful kind of waste. The plane says nothing about altitude, about what any of it is for. That's the third axis, the one that turns a map into a compass.

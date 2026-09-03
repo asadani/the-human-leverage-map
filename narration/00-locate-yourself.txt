@@ -1,0 +1,19 @@
+Locate Yourself.
+
+Before Chapter 1, place yourself on the map. Three prompts. No scoring. No categories. Just a dot and an arrow.
+
+Every chapter in this book refers back to the same two-axis diagram. The vertical axis, Human Leverage, measures what you bring that AI cannot replicate on demand: judgment, taste, relationships, accountability, the ability to ask the right question, and ultimately the wisdom to decide what to build and why. The horizontal axis, AI Capability, measures how fluently you work with AI tools: from ignoring them entirely, through casual consumption and skilled practice, toward building, orchestrating, and designing systems where humans and AI operate as a single unit.
+
+The hidden reading is Cognitive Sovereignty: the degree to which you remain the author of your own thinking, rather than a downstream consumer of someone else's model. It lives in the vertical axis but is not reducible to any single level on it. The four personas are not types of people. They are positions, places on the map that each of us can occupy, leave, and return to depending on the domain, the moment, and the choices we make.
+
+The book's argument: the Scarcity Inversion is already underway. AI capability is becoming abundant and cheap. Human Leverage, especially the Cognitive Sovereignty that anchors the upper half of the map, is becoming the scarce resource. The people who will matter most are not those with the highest AI Capability score, nor those who have insulated themselves from AI entirely. They are in the upper-right: The Amplifier, the Steward of Intelligence, the practitioner who uses AI fluently without surrendering their thinking to it.
+
+The Scarcity Inversion, The reversal in which AI commoditizes execution and prediction, making raw output abundant and cheap, while distinctly human capacities, judgment, accountability, wisdom, context, become the scarcer and therefore more valuable resource.
+
+The Human Leverage Map, The two-axis framework at the center of this book: AI Capability on the horizontal, Human Leverage on the vertical, with four quadrant personas marking the positions that matter most.
+
+Cognitive Sovereignty, The quality of remaining the author of your own thinking: the capacity to reason independently, hold ambiguity, exercise judgment, and resist the pull of algorithmic substitution even when substitution is available and easy.
+
+Steward of Intelligence, The persona in the upper-right quadrant of the map: a leader or practitioner who commands AI capability fluently while operating at the level of judgment, accountability, and purpose that AI cannot replicate. Leverage that survives AI.
+
+Hold your dot and your arrow in mind as you read. The map will keep coming back.
