@@ -551,6 +551,7 @@
   body > section { order: 0; }
   body > .bf-front { order: 8; }
   body > .bf-about { order: 9; }
+  body > footer { order: 10; }
 }
 /* /BOOK-FORGE:MATTER-CSS */
 
